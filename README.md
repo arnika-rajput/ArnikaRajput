@@ -1,3 +1,5 @@
+<!-- GitHub Profile README -->
+
 <h1 align="center">Hi 👋, I'm Arnika Rajput</h1>
 <h3 align="center">🚀 Frontend Developer | UI/UX Engineer | Performance & Accessibility Specialist</h3>
 
@@ -7,13 +9,24 @@
 
 ---
 
-## 👩‍💻 About Me
+<div align="center">
+  
+🎯 6+ years of building clean, responsive, accessible, and high-performing user interfaces for large-scale **Government** and **Enterprise** platforms.  
+💡 I believe in writing **clean, maintainable code** with a user-first mindset.  
+🛠️ Specialized in **React.js**, **Next.js**, **TypeScript**, **Tailwind**, and **Core Web Vitals** optimization.  
+📈 Proven expertise in **W3C/WCAG Accessibility**, **STQC**, and **GIGW Compliance** for Indian Govt. projects.
 
-🎯 Frontend Developer with 6+ years of experience  
-🎨 Focus on creating **pixel-perfect**, **GIGW-compliant**, **SEO-friendly** web apps  
-⚡ Passionate about **React**, **Next.js**, **GraphQL**, and **performance optimization**  
-🌍 Contributor to **Gov & Enterprise** portals  
-👩‍🏫 Mentor | Agile Enthusiast | Team Lead
+</div>
+
+---
+
+## 🔥 Quick Facts
+
+- 💼 6+ Years of Industry Experience  
+- 🌐 Built 5+ Government & Enterprise Portals  
+- 🚀 Strong in SSR, SSG, SEO, Accessibility, Performance  
+- 💬 Tech Stack: React, Next.js, TypeScript, Tailwind, GraphQL, Git  
+- 🧠 Loves learning, mentoring, and scaling frontend teams
 
 ---
 
@@ -53,7 +66,6 @@
   </tr>
 </table>
 
-
 ---
 
 ## 📰 Latest Posts from LinkedIn
@@ -86,4 +98,4 @@ To enable auto-updating posts from LinkedIn or Medium:
 
 ---
 
-> 🌈 “Design is not just how it looks, but how it works.” – Steve Jobs
+> 🌈 “Design is not just how it looks, but how it works.” – *Steve Jobs*
