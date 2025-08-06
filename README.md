@@ -31,21 +31,21 @@
   <tr>
     <td align="center" width="33%">
       <a href="https://e-amrit.niti.gov.in/">
-        <img src="https://github.com/arnika-rajput/arnika-rajput/blob/main/assets/emarit-web.png?raw=true" width="100%" alt="e-AMRIT Portal" />
+        <img src="https://github.com/arnika-rajput/ArnikaRajput/tree/main/assets/emarit-web.png?raw=true" width="100%" alt="e-AMRIT Portal" />
         <br /><strong>e-AMRIT Portal</strong>
       </a>
       <p>Electric Mobility Portal — Responsive, GIGW-compliant</p>
     </td>
     <td align="center" width="33%">
       <a href="https://kreatetechnologies.com/">
-        <img src="https://github.com/arnika-rajput/arnika-rajput/blob/main/assets/kreatetechnologies.png?raw=true" width="100%" alt="Kreate Technologies" />
+        <img src="https://github.com/arnika-rajput/ArnikaRajput/tree/main/assets/kreatetechnologies.png?raw=true" width="100%" alt="Kreate Technologies" />
         <br /><strong>Kreate Technologies</strong>
       </a>
       <p>React + Next.js + Tailwind | SSR, GraphQL, SEO</p>
     </td>
     <td align="center" width="33%">
       <a href="https://ataljal.mowr.gov.in/">
-        <img src="https://github.com/arnika-rajput/arnika-rajput/blob/main/assets/ataljal.png?raw=true" width="100%" alt="Atal Jal" />
+        <img src="https://github.com/arnika-rajput/ArnikaRajput/tree/main/assets/ataljal.png?raw=true" width="100%" alt="Atal Jal" />
         <br /><strong>Atal Jal</strong>
       </a>
       <p>Water Portal — HTML, Bootstrap, JavaScript, W3C compliant</p>
