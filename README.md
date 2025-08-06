@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Frontend Developer | UI/UX Engineer | Performance & Accessibility Specialist</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Developer at work" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Girl GIF" />
 </p>
 
 ---
@@ -17,7 +17,7 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🔧 Tech Stack & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,jquery,tailwind,bootstrap,graphql,git,postman,github,vscode" />
@@ -25,50 +25,45 @@
 
 ---
 
-## 🌟 Featured Project Gallery
+## 🌟 Featured Projects
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <a href="https://ataljal.mowr.gov.in/">
-        <img src="https://raw.githubusercontent.com/arnika-rajput/arnika-rajput/main/assets/ataljal.png" width="100%" alt="Atal Jal"/>
-        <br /><strong>Atal Jal</strong>
-      </a>
-      <p>Government portal | Bootstrap + JS | GIGW Compliant</p>
-    </td>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <a href="https://e-amrit.niti.gov.in/">
-        <img src="https://raw.githubusercontent.com/arnika-rajput/arnika-rajput/main/assets/emarit-web.png" width="100%" alt="e-AMRIT"/>
+        <img src="https://user-images.githubusercontent.com/94619220/196982353-3964e52c-0fd1-406e-82e0-d9e300cbe3c7.png" width="100%" alt="e-AMRIT Screenshot"/>
         <br /><strong>e-AMRIT Portal</strong>
       </a>
-      <p>EV portal | HTML, Bootstrap, JavaScript | Filters + Calculations</p>
+      <p>Electric Mobility Portal — Responsive, GIGW-compliant</p>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://kreatenergy.com/">
-        <img src="https://raw.githubusercontent.com/arnika-rajput/arnika-rajput/main/assets/kreatenergy.png" width="100%" alt="Kreate Energy"/>
-        <br /><strong>Kreate Energy</strong>
-      </a>
-      <p>React, GraphQL, Next.js | SSR | SEO + Lazy Loading</p>
-    </td>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <a href="https://kreatetechnologies.com/">
-        <img src="https://raw.githubusercontent.com/arnika-rajput/arnika-rajput/main/assets/kreatetechnologies.png" width="100%" alt="Kreate Technologies"/>
-        <br /><strong>Kreate Technologies</strong>
+        <img src="https://user-images.githubusercontent.com/94619220/196982454-c00de4e6-1d29-469f-a71d-df06d5e7a343.png" width="100%" alt="Kreate Technology Screenshot"/>
+        <br /><strong>Kreate Technology</strong>
       </a>
-      <p>CMS + AI | Modern Design | Frontend from Scratch</p>
+      <p>React + Next.js + Tailwind | SSR, GraphQL, SEO</p>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://ataljal.mowr.gov.in/">
+        <img src="https://user-images.githubusercontent.com/94619220/196982570-1c42ae5d-1dd7-490b-802a-5e77f7c6c177.png" width="100%" alt="Atal Jal Screenshot"/>
+        <br /><strong>Atal Jal</strong>
+      </a>
+      <p>Water Portal — HTML, Bootstrap, JavaScript, W3C compliant</p>
     </td>
   </tr>
 </table>
 
-> 📝 You can add more projects by following this format.
-
 ---
 
-## 📰 Latest Blog / LinkedIn (Dynamic - Optional)
+## 📰 Latest Posts from LinkedIn
 
-> ⏳ Coming Soon: To auto-update your latest posts from Medium or LinkedIn, use a GitHub Action like [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) or I can help you set it up manually.
+> ⏳ *Coming Soon via GitHub Actions...*
+
+To enable auto-updating posts from LinkedIn or Medium:
+
+1. Write posts on [Medium](https://medium.com/) or LinkedIn.
+2. Use GitHub Action like [dev.to-updater](https://github.com/gautamkrishnar/blog-post-workflow) or [rss-to-readme](https://github.com/marketplace/actions/rss-to-readme) with your LinkedIn RSS feed.
+3. I can help you configure this if needed.
 
 ---
 
