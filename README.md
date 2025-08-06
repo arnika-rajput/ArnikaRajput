@@ -31,7 +31,8 @@
   <tr>
     <td align="center" width="33%">
       <a href="https://e-amrit.niti.gov.in/">
-        <img src="https://github.com/arnika-rajput/ArnikaRajput/tree/main/assets/emarit-web.png?raw=true" width="100%" alt="e-AMRIT Portal" />
+        <img src="https://raw.githubusercontent.com/arnika-rajput/arnika-rajput/main/assets/emarit-web.png" width="100%" />
+
         <br /><strong>e-AMRIT Portal</strong>
       </a>
       <p>Electric Mobility Portal — Responsive, GIGW-compliant</p>
