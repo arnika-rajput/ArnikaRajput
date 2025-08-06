@@ -31,7 +31,7 @@
   <tr>
     <td align="center" width="33%">
       <a href="https://e-amrit.niti.gov.in/">
-        <img src="https://raw.githubusercontent.com/arnika-rajput/arnika-rajput/main/assets/emarit-web.png" width="40%" />
+        <img src="https://raw.githubusercontent.com/arnika-rajput/arnika-rajput/main/assets/emarit-web.png" width="40%" height="40%" />
 
         <br /><strong>e-AMRIT Portal</strong>
       </a>
@@ -39,14 +39,14 @@
     </td>
     <td align="center" width="33%">
       <a href="https://kreatetechnologies.com/">
-        <img src="https://raw.githubusercontent.com/arnika-rajput/arnika-rajput/main/assets/kreatetechnologies.png?raw=true" width="40%" alt="Kreate Technologies" />
+        <img src="https://raw.githubusercontent.com/arnika-rajput/arnika-rajput/main/assets/kreatetechnologies.png?raw=true" width="40%" height="40%" alt="Kreate Technologies" />
         <br /><strong>Kreate Technologies</strong>
       </a>
       <p>React + Next.js + Tailwind | SSR, GraphQL, SEO</p>
     </td>
     <td align="center" width="33%">
       <a href="https://ataljal.mowr.gov.in/">
-        <img src="https://raw.githubusercontent.com/arnika-rajput/arnika-rajput/main/assets/ataljal.png?raw=true" width="40%" alt="Atal Jal" />
+        <img src="https://raw.githubusercontent.com/arnika-rajput/arnika-rajput/main/assets/ataljal.png?raw=true" width="40%" height="40%" alt="Atal Jal" />
         <br /><strong>Atal Jal</strong>
       </a>
       <p>Water Portal — HTML, Bootstrap, JavaScript, W3C compliant</p>
