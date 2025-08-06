@@ -31,25 +31,21 @@
   <tr>
     <td align="center" width="33%">
       <a href="https://e-amrit.niti.gov.in/">
-         <img src="https://github.com/arnika-rajput/arnika-rajput/blob/main/assets/emarit-web.png?raw=true" width="100%" alt="e-amrit portal" />
-       
+        <img src="https://github.com/arnika-rajput/arnika-rajput/blob/main/assets/emarit-web.png?raw=true" width="100%" alt="e-AMRIT Portal" />
         <br /><strong>e-AMRIT Portal</strong>
       </a>
       <p>Electric Mobility Portal — Responsive, GIGW-compliant</p>
     </td>
     <td align="center" width="33%">
       <a href="https://kreatetechnologies.com/">
-        <img src="https://github.com/arnika-rajput/arnika-rajput/blob/main/assets/kreatetechnologies.png?raw=true" width="100%" alt="Kreate Technology" />
-
-       
-        <br /><strong>Kreate Technology</strong>
+        <img src="https://github.com/arnika-rajput/arnika-rajput/blob/main/assets/kreatetechnologies.png?raw=true" width="100%" alt="Kreate Technologies" />
+        <br /><strong>Kreate Technologies</strong>
       </a>
       <p>React + Next.js + Tailwind | SSR, GraphQL, SEO</p>
     </td>
     <td align="center" width="33%">
       <a href="https://ataljal.mowr.gov.in/">
-        <img src="https://github.com/arnika-rajput/arnika-rajput/blob/main/assets/ataljal.png?raw=true" width="100%" alt="Atal Jal " />
-
+        <img src="https://github.com/arnika-rajput/arnika-rajput/blob/main/assets/ataljal.png?raw=true" width="100%" alt="Atal Jal" />
         <br /><strong>Atal Jal</strong>
       </a>
       <p>Water Portal — HTML, Bootstrap, JavaScript, W3C compliant</p>
@@ -66,8 +62,8 @@
 To enable auto-updating posts from LinkedIn or Medium:
 
 1. Write posts on [Medium](https://medium.com/) or LinkedIn.
-2. Use GitHub Action like [dev.to-updater](https://github.com/gautamkrishnar/blog-post-workflow) or [rss-to-readme](https://github.com/marketplace/actions/rss-to-readme) with your LinkedIn RSS feed.
-3. I can help you configure this if needed.
+2. Use GitHub Action like [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow).
+3. I can help you configure it if needed.
 
 ---
 
